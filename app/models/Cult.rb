@@ -1,5 +1,7 @@
 require 'pry'
 
+#adding in this as a test marker for branch workflow. Want to see if it updates with this comment.
+
 class Cult
 
     attr_reader :name, :location, :founding_year, :slogan 
